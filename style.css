@@ -1,0 +1,33 @@
+#myNavbar{
+   position: fixed;top:0;z-index:99999;
+    background-color: darkslategrey;
+    width:100%;
+    text-align: center;
+    font-size: large;
+}
+#head{
+    font-size: 30px;
+}
+.environment_li
+{
+  margin-top: 25px;
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+  border-radius: 25px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
+html{
+  scroll-behavior: smooth;
+}
